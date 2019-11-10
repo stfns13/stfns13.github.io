@@ -9,7 +9,7 @@
 title: "王玉帅的博客"
 brief-intro: "敢于知道"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://XinYao1994.github.io" # the base hostname & protocol for your site
+url: "https://stfns13.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -35,9 +35,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 52bbb620d9680fd85254                            #生成的clientID
   clientSecret: d92cec378527800b0816d1bdd26dc71eb5dd0ccd    #生成的clientSecret
-  repo: XinYao1994.github.io    #仓库名称
-  owner: XinYao1994    #github用户名
-  admin: XinYao1994
+  repo: stfns13.github.io    #仓库名称
+  owner: stfns13    #github用户名
+  admin: stfns13
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # statistic analysis 统计代码
@@ -48,12 +48,6 @@ gitalk:
 google_analytics_id: UA-126298955-1 # google 分析追踪id
 ga_domain: auto
 
-friends: [
-    {
-        title: "Linkedin - Xin YAO",
-        href: "https://www.linkedin.com/in/%E4%BF%A1-%E5%A7%9A-947492167/"
-    }
-]
 
 # Build settings
 markdown: kramdown
