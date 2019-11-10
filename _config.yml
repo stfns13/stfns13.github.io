@@ -23,30 +23,10 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 来自王玉帅的个人专栏！
+description_footer: 敢于知道！
 
-# comments
-# two ways to comment, only choose one, and use your own short name
-# 两种评论插件，选一个就好了，使用自己的 short_name
-# duoshuo_shortname: xyao #hygblog
-# disqus_shortname: #gaohaoyang
-# using Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 52bbb620d9680fd85254                            #生成的clientID
-  clientSecret: d92cec378527800b0816d1bdd26dc71eb5dd0ccd    #生成的clientSecret
-  repo: stfns13.github.io    #仓库名称
-  owner: stfns13    #github用户名
-  admin: stfns13
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
-# statistic analysis 统计代码
-# 百度统计 id，将统计代码替换为自己的百度统计id，即
-# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
-# xxxxx字符串
-# baidu_tongji_id: 1cc1fc4b4b456bf7c99ce80aec5bf009
-google_analytics_id: UA-126298955-1 # google 分析追踪id
-ga_domain: auto
+
 
 
 # Build settings
